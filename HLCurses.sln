@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLCurses", "HLCurses\HLCurses.csproj", "{97A56686-CF38-4ABC-986E-7455F5FBCEAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HLCursesTest", "HLCursesTest\HLCursesTest.csproj", "{55B2C203-4263-4404-B19B-9FCFBE2A3EB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B2C203-4263-4404-B19B-9FCFBE2A3EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B2C203-4263-4404-B19B-9FCFBE2A3EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B2C203-4263-4404-B19B-9FCFBE2A3EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B2C203-4263-4404-B19B-9FCFBE2A3EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A56686-CF38-4ABC-986E-7455F5FBCEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A56686-CF38-4ABC-986E-7455F5FBCEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A56686-CF38-4ABC-986E-7455F5FBCEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A56686-CF38-4ABC-986E-7455F5FBCEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
